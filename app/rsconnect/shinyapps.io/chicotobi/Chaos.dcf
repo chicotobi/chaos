@@ -1,0 +1,12 @@
+name: Chaos
+title: Chaos
+username:
+account: chicotobi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3007168
+bundleId: 3736211
+url: https://chicotobi.shinyapps.io/Chaos/
+when: 1602617628.59665
+asMultiple: FALSE
+asStatic: FALSE
