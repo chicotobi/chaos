@@ -1,6 +1,7 @@
 library(shiny)
 library(tidyverse)
 library(deSolve)
+library(plotly)
 
 ui <- fluidPage(
     fluidRow(
